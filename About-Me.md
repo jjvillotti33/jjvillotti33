@@ -13,6 +13,9 @@ company: Blue Origin
 
 fields_of_interest:
   [
+    "Software Engineering"
+    "Software Development"
+    "Fullstack Development"
     "Cybersecurity"
     "Penetration Testing"
     "Red Teaming"
